@@ -1,0 +1,5 @@
+__ignore__
+_background_
+cup
+humidifier
+teapot
