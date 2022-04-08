@@ -32,4 +32,4 @@ Execute the following command to generate the voc dataset.
 
 ## Training
 
-Train and predict with guidance from [unet.ipynb](./unet.ipynb)
+Train and predict with [unet.ipynb](./unet.ipynb)
