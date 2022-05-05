@@ -6,6 +6,14 @@ Build [U-Net](https://arxiv.org/abs/1505.04597) with [TensorFlow 2](https://www.
 
 ## Installation
 
+If you are using **macOS**, you need to execute the following command before installation.
+
+```sh
+❯ brew install pyqt
+```
+
+Execute the following command to install the unet environment.
+
 ```sh
 ❯ conda create -n unet -y python=3.9 && conda activate unet && pip install -r requirements.txt
 ```
