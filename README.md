@@ -1,5 +1,8 @@
 # tensorflow-unet-labelme
 
+[The easiest way to train a U-NET Image Segmentation model using TensorFlow and labelme
+](https://makeoptim.com/en/deep-learning/yiai-unet)
+
 Build [U-Net](https://arxiv.org/abs/1505.04597) with [TensorFlow 2](https://www.tensorflow.org/) and train a dataset annotated with [labelme](https://github.com/wkentaro/labelme).
 
 ![](./train.gif)
